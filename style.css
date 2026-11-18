@@ -1,0 +1,7 @@
+*{box-sizing:border-box}body{margin:0;font-family:Arial,Helvetica,sans-serif;color:#1f2933;line-height:1.6;background:#fff}
+header{background:#0b3c5d;color:#fff}.wrap{max-width:860px;margin:0 auto;padding:0 20px}
+header .wrap{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;padding:18px 20px}
+header a{color:#fff;text-decoration:none;margin-left:18px}header a.brand{margin:0;font-size:1.4rem;font-weight:bold}
+main{padding:30px 0 50px}h1{font-size:2rem;margin:0 0 10px}h2{margin-top:34px;font-size:1.3rem;color:#0b3c5d}
+.lead{font-size:1.15rem;color:#3e4c59}ol,ul{padding-left:22px}li{margin:6px 0}
+footer{border-top:1px solid #d9dee3;padding:20px 0;font-size:.9rem;color:#52606d}footer a{color:#52606d;margin-right:16px}
